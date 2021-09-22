@@ -1,0 +1,5 @@
+comp-lzo yes
+
+如果重新构建，需要清理掉的文件
+rm config/* 
+rm docker-for-mac.ovpn
